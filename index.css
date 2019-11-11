@@ -1,0 +1,43 @@
+#alignRight {
+    float: right;
+}
+
+a:hover{
+	background-color: green;
+	font-weight: bold;
+}
+
+a{
+	background-color: blue;
+	padding: 10px;
+	
+	text-decoration: none;
+	color: white;
+}
+ 
+#frame1{
+	background-color: black;
+}
+#myLinks{
+	padding-top: 1px;
+	margin-top: 5px;
+	float: right;
+}
+
+span{
+	color: white;
+	font-family: Ink Free;
+
+}
+th:first-letter{
+    font-weight: bold;
+    font-size: 30px;
+}
+
+p{
+	color: red;
+	text-align: center;
+}
+
+
+
